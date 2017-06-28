@@ -1,0 +1,9 @@
+[Unit]
+Description=THREATIN agent and intelligence
+
+[Service]
+User=threatin
+ExecStart=/usr/bin/python /opt/scripts/THREATIN/threat-agent/threat-agent.py
+
+[Install]
+WantedBy=multi-user.target
