@@ -9,6 +9,6 @@ The format that a plugin needs to return data in for the agent to understand is 
 <br>
 <br>
 INSTALL INSTRUCTIONS:<br>
-	1. Run the TREATINSTALL.sh script in the root directory.<br>
-	2. Proceed to debug the hell out of it because I won't have tested it enough.<br>
+	1. Run the TREATINSTALL.sh script.<br>
+	2. Proceed to debug the hell out of the THREATINSTALL.sh script because I won't have tested it enough.<br>
 	3. THREATIN is now installed. <br>
