@@ -1,3 +1,5 @@
+NOTE: This project is still very much incomplete. 
+
 THREATIN is an open source python script designed to collate threat intelligence information through the use of plugin scripts that gather information from different sources. The motivation for this architecture is that threat intelligence data comes in many forms and formats, so the plugin scripts need to do the hard work of converting the data to a nice format to be passed to the threat agent, which will in turn store the data in a database. An intelligence agent then pulls the data from this database to present in a human-readable way in a webpage.
 
 The format that a plugin needs to return data in for the agent to understand is as follows:<br>
